@@ -13,4 +13,4 @@ Currently, the project short-term aims are:
 
 You can [join our Discord][discord].
 
-[discord]]: https://discord.com/invite/8wBxZuNjRD
+[discord]: https://discord.com/invite/8wBxZuNjRD
